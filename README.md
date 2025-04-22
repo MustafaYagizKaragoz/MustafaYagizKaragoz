@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in deep learning. Welco
 - **Continuous Learning:** Keeping up with the latest research and advancements in the field of deep learning.
 
 ## 🌱 What I'm Learning
-- **Advanced Neural Networks:** Exploring architectures like GANs, RNNs, and Transformers.
+- **Computer Vision:** Focusing on image classification, segmentation, and object detection using state-of-the-art models like YOLO, U-Net, and ViT.
 - **TensorFlow and PyTorch:** Mastering popular deep learning frameworks.
 - **AI Ethics and Fairness:** Understanding the ethical implications and ensuring fairness in AI models.
 
@@ -28,5 +28,4 @@ I'm a passionate software developer with a keen interest in deep learning. Welco
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=MustafaYagizKaragoz&theme=onedark)
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate on any deep learning projects. Happy coding!"# README" 
-"# MustafaYagizKaragoz" 
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any deep learning projects. Happy coding!
